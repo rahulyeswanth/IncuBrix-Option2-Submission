@@ -1,0 +1,21 @@
+﻿asset_id,platform,format,hook,hook_words,dimensions,expected_dimensions,duration_seconds,media_exists,utm_valid,editable_source,has_cta,hashtag_count
+ETH2D2-V03,LinkedIn,Short video,Never promise something the clip does not deliver.,8,"(1080, 1350)","(1080, 1350)",27.367,True,True,True,True,3
+EORC57-V03,LinkedIn,Short video,Nobody needs your name before they know why the clip matters.,11,"(1080, 1350)","(1080, 1350)",31.1,True,True,True,True,3
+ETH2D2-V04,X,Short video,People pay attention to their own frustrations first.,8,"(1080, 1920)","(1080, 1920)",27.367,True,True,True,True,2
+ETH2D2-C02,Instagram,Carousel,Lead with the problem your viewer already has.,8,"(1080, 1350)","(1080, 1350)",,True,True,True,True,3
+ETH2D2-G03,X,Graphic,Show the result before the method.,6,"(1600, 900)","(1600, 900)",,True,True,True,True,2
+EORC57-C03,LinkedIn,Carousel,Finish every video with one clear next step.,8,"(1080, 1350)","(1080, 1350)",,True,True,True,True,3
+ETH2D2-V02,YouTube Shorts,Short video,A clip without a promise is just footage.,8,"(1080, 1920)","(1080, 1920)",29.433,True,True,True,True,3
+EORC57-V05,Instagram,Short video,Viewers should know what they will learn within the first two seconds.,12,"(1080, 1920)","(1080, 1920)",34.067,True,True,True,True,3
+EORC57-V06,YouTube Shorts,Short video,Ask permission before you publish anyone else's voice or face.,10,"(1080, 1920)","(1080, 1920)",28.567,True,True,True,True,3
+EORC57-C04,Instagram,Carousel,"A guest agreed to the full conversation, not necessarily to every clip.",12,"(1080, 1350)","(1080, 1350)",,True,True,True,True,3
+EORC57-T03,Threads,Text post,"Track one number per post, not ten.",7,n/a,"(1080, 1350)",,True,True,True,True,1
+EORC57-T02,X,Text post,The goal is not to post more.,7,n/a,"(1600, 900)",,True,True,True,True,2
+EORC57-V02,YouTube Shorts,Short video,Claims make people stop scrolling because they create tension.,9,"(1080, 1920)","(1080, 1920)",31.533,True,True,True,True,3
+EORC57-G01,LinkedIn,Graphic,"Keep every short video under sixty seconds, and aim for thirty.",11,"(1080, 1350)","(1080, 1350)",,True,True,True,True,3
+ETH2D2-V05,Instagram,Short video,Trim to the first word that matters.,7,"(1080, 1920)","(1080, 1920)",31.1,True,True,True,True,3
+ETH2D2-V06,YouTube Shorts,Short video,Write the hook before you edit the video.,8,"(1080, 1920)","(1080, 1920)",26.5,True,True,True,True,3
+EORC57-G02,Instagram,Graphic,Reuse the same idea in a different shape.,8,"(1080, 1350)","(1080, 1350)",,True,True,True,True,3
+ETH2D2-V08,X,Short video,The first version is usually a description.,7,"(1080, 1920)","(1080, 1920)",30.267,True,True,True,True,2
+EORC57-C01,LinkedIn,Carousel,"Start by listening for claims, not topics.",7,"(1080, 1350)","(1080, 1350)",,True,True,True,True,3
+ETH2D2-T01,LinkedIn,Text post,A hook is a promise made in two seconds.,9,n/a,"(1080, 1350)",,True,True,True,True,3

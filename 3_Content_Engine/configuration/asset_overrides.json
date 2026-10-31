@@ -1,0 +1,39 @@
+{
+  "_note": "Human-reviewed corrections for asset coherence. Overrides preserve IDs and source traceability; every replacement sentence appears verbatim in the corresponding input.",
+  "assets": {
+    "EORC57-C03": {
+      "points": [
+        "Tell people to save it, send it to a friend or watch the full episode.",
+        "If you ask for three things, people do none of them.",
+        "The last slide should tell people what to do next.",
+        "A good clip answers one question.",
+        "If a clip answers two questions, cut it in half."
+      ],
+      "reason": "Keep the carousel focused on one clear call to action."
+    },
+    "EORC57-V06": {
+      "points": [
+        "A guest agreed to the full conversation, not necessarily to every clip.",
+        "A quick message protects the relationship and costs nothing.",
+        "Always keep the original recording."
+      ],
+      "reason": "Keep the short video focused on consent and source preservation."
+    },
+    "EORC57-C04": {
+      "points": [
+        "Ask permission before you publish anyone else's voice or face.",
+        "A quick message protects the relationship and costs nothing.",
+        "Label anything made with AI where the platform asks you to.",
+        "Honesty about your process builds more trust than hiding it.",
+        "Audiences forgive tools."
+      ],
+      "reason": "Keep the carousel focused on consent and transparent media use."
+    },
+    "EORC57-G02": {
+      "points": [
+        "A claim becomes a video on Monday, a quote card on Tuesday and a carousel on Wednesday."
+      ],
+      "reason": "Make the supporting line demonstrate the repurposing hook."
+    }
+  }
+}

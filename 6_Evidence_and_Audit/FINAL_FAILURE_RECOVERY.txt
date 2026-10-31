@@ -1,0 +1,27 @@
+=== SIMULATED FAILURE ===
+2026-10-30 16:51:14,336 INFO CREATED EORC57-V01 (Short video, Instagram)
+2026-10-30 16:51:19,936 INFO CREATED EORC57-V02 (Short video, YouTube Shorts)
+2026-10-30 16:51:19,937 ERROR RENDER FAILED EORC57-V03: simulated render failure (will retry on next run)
+2026-10-30 16:51:25,153 INFO CREATED EORC57-V04 (Short video, X)
+2026-10-30 16:51:31,336 INFO CREATED EORC57-V05 (Short video, Instagram)
+2026-10-30 16:51:36,653 INFO CREATED EORC57-V06 (Short video, YouTube Shorts)
+2026-10-30 16:51:40,443 INFO CREATED EORC57-V07 (Short video, LinkedIn)
+2026-10-30 16:51:46,183 INFO CREATED EORC57-V08 (Short video, X)
+2026-10-30 16:51:47,357 INFO CREATED EORC57-C01 (Carousel, LinkedIn)
+2026-10-30 16:51:48,505 INFO CREATED EORC57-C02 (Carousel, Instagram)
+2026-10-30 16:51:49,650 INFO CREATED EORC57-C03 (Carousel, LinkedIn)
+2026-10-30 16:51:50,827 INFO CREATED EORC57-C04 (Carousel, Instagram)
+2026-10-30 16:51:51,004 INFO CREATED EORC57-G01 (Graphic, LinkedIn)
+2026-10-30 16:51:51,175 INFO CREATED EORC57-G02 (Graphic, Instagram)
+2026-10-30 16:51:51,432 INFO CREATED EORC57-G03 (Graphic, X)
+2026-10-30 16:51:51,606 INFO CREATED EORC57-G04 (Graphic, Threads)
+2026-10-30 16:51:51,607 INFO CREATED EORC57-T01 (Text post, LinkedIn)
+2026-10-30 16:51:51,607 INFO CREATED EORC57-T02 (Text post, X)
+2026-10-30 16:51:51,608 INFO CREATED EORC57-T03 (Text post, Threads)
+2026-10-30 16:51:51,608 INFO CREATED EORC57-T04 (Text post, LinkedIn)
+2026-10-30 16:51:51,609 INFO DONE {'inputs': 1, 'planned': 20, 'created': 19, 'updated': 0, 'unchanged': 0, 'rejected': 0, 'held': 0, 'duplicates_removed': 0, 'errors': 1, 'retired': 0, 'input_words': 716, 'runtime_min': 0.71, 'items_in_calendar': 19, 'resume_note': '', 'transformation': [{'mode': 'deterministic_offline'}]}
+failure_exit=1
+=== RECOVERY ===
+2026-10-30 16:51:55,621 INFO CREATED EORC57-V03 (Short video, LinkedIn)
+2026-10-30 16:51:55,625 INFO DONE {'inputs': 1, 'planned': 20, 'created': 1, 'updated': 0, 'unchanged': 19, 'rejected': 0, 'held': 0, 'duplicates_removed': 0, 'errors': 0, 'retired': 0, 'input_words': 716, 'runtime_min': 0.07, 'items_in_calendar': 20, 'resume_note': '', 'transformation': [{'mode': 'deterministic_offline'}]}
+recovery_exit=0

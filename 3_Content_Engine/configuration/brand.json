@@ -1,0 +1,88 @@
+{
+  "brand_name": "IncuBrix",
+  "footer": "incubrix.com",
+  "base_url": "https://incubrix.com/",
+  "campaign": "creator_engine_q4_2026",
+  "colors": {
+    "bg": "#05070D",
+    "bg2": "#0A0E27",
+    "accent": "#1E6BFF",
+    "cyan": "#2DD4FF",
+    "text": "#F4F7FF",
+    "muted": "#9AA6C4"
+  },
+  "fonts": {
+    "bold": "fonts/Inter-Bold.otf",
+    "semibold": "fonts/Inter-SemiBold.otf",
+    "regular": "fonts/Inter-Regular.otf"
+  },
+  "voice_rules": [
+    "Practical and specific: give steps, not slogans.",
+    "Creator-to-creator: speak to 'you', plain words, short sentences.",
+    "No hype: no superlatives or guarantees without evidence.",
+    "Never state a number we did not measure; label examples as illustrative.",
+    "Value first, product second; mention only product features that were seen working.",
+    "Sentence case. At most one exclamation mark and one emoji per asset."
+  ],
+  "banned_phrases": [
+    "guaranteed",
+    "guarantee",
+    "#1",
+    "number one",
+    "best in the world",
+    "best ever",
+    "revolutionary",
+    "game-changer",
+    "game changer",
+    "go viral",
+    "goes viral",
+    "overnight",
+    "10x",
+    "100x",
+    "explode your",
+    "secret",
+    "hack",
+    "magic",
+    "effortless",
+    "no-brainer"
+  ],
+  "unverified_features": [
+    "100+ languages",
+    "translate your captions",
+    "brand kit",
+    "always on-brand",
+    "performance dashboard",
+    "analytics dashboard",
+    "content performance",
+    "spotify",
+    "bluesky"
+  ],
+  "product_claim_triggers": [
+    "incubrix can",
+    "incubrix will",
+    "incubrix finds",
+    "incubrix cuts",
+    "incubrix turns",
+    "incubrix publishes",
+    "incubrix clones",
+    "incubrix scans",
+    "creator studio"
+  ],
+  "max_hook_words": 12,
+  "max_exclamations": 1,
+  "max_emoji": 1,
+  "cta_templates": [
+    "Save this for your next recording.",
+    "Try this on your next episode and compare.",
+    "Send this to the person who edits your content.",
+    "Pick one idea and ship it this week.",
+    "Which one will you try first?"
+  ],
+  "hook_blocklist": [
+    "clearest one",
+    "the next one",
+    "the same while",
+    "each window",
+    "that one"
+  ]
+}

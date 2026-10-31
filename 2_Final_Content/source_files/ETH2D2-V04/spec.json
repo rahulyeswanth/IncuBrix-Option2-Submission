@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V04",
+ "format": "Short video",
+ "platform": "X",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "People pay attention to their own frustrations first.",
+ "caption": "People pay attention to their own frustrations first.\n\nYour solution only matters after they feel understood.\n\nShow the result before the method.\n\nTry this on your next episode and compare.\n\nhttps://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V04&utm_term=hooks\n\n#videohooks #contentstrategy",
+ "cta": "Try this on your next episode and compare.",
+ "utm_link": "https://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V04&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "Your solution only matters after they feel understood.",
+  "Show the result before the method.",
+  "If you are teaching an edit, start with the finished clip."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "People pay attention to their own frustrations first."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "Your solution only matters after they feel understood."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Show the result before the method."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "If you are teaching an edit, start with the finished clip."
+  },
+  {
+   "kind": "cta",
+   "text": "Try this on your next episode and compare.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "asset_id": "EORC57-V07",
+ "format": "Short video",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Write down which clips worked and why.",
+ "caption": "Write down which clips worked and why.\n\nThe idea can be the same while the packaging changes.\n\nA carousel lets someone save the idea and come back to it later.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V07&utm_term=workflow\n\n#creatorworkflow #contentcreator #productivity",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V07&utm_term=workflow",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "The idea can be the same while the packaging changes.",
+  "A carousel lets someone save the idea and come back to it later.",
+  "Use one idea per slide and at most twenty words."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Write down which clips worked and why."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "The idea can be the same while the packaging changes."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "A carousel lets someone save the idea and come back to it later."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Use one idea per slide and at most twenty words."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "asset_id": "EORC57-C04",
+ "format": "Carousel",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "A guest agreed to the full conversation, not necessarily to every clip.",
+ "caption": "A guest agreed to the full conversation, not necessarily to every clip.\n\nAn hour of audio gives you twelve windows, and each window usually holds one strong idea.\n\nYou only need to find the clearest one in each window.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C04&utm_term=trust\n\n#creatoreconomy #contentcreator #podcasting",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C04&utm_term=trust",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "An hour of audio gives you twelve windows, and each window usually holds one strong idea.",
+  "You only need to find the clearest one in each window.",
+  "If a clip answers two questions, cut it in half.",
+  "Viewers should know what they will learn within the first two seconds.",
+  "Nobody needs your name before they know why the clip matters."
+ ],
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "A guest agreed to the full conversation, not necessarily to every clip.",
+   "sub": "One recording, one week of content"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "An hour of audio gives you twelve windows, and each window usually holds one strong idea."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "You only need to find the clearest one in each window."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "If a clip answers two questions, cut it in half."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "Viewers should know what they will learn within the first two seconds."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "Nobody needs your name before they know why the clip matters."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V05",
+ "format": "Short video",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "Trim to the first word that matters.",
+ "caption": "Trim to the first word that matters.\n\nMost recordings start with a pause, a cough or a half sentence.\n\nPut the main words on screen in the first second.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V05&utm_term=craft\n\n#videoediting #captions #contentcreator",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V05&utm_term=craft",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "Most recordings start with a pause, a cough or a half sentence.",
+  "Put the main words on screen in the first second.",
+  "A short line of text lets people understand the clip before the audio makes sense."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Trim to the first word that matters."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "Most recordings start with a pause, a cough or a half sentence."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Put the main words on screen in the first second."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "A short line of text lets people understand the clip before the audio makes sense."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

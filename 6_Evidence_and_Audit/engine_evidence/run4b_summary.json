@@ -1,0 +1,22 @@
+{
+ "inputs": 2,
+ "planned": 20,
+ "created": 1,
+ "updated": 0,
+ "unchanged": 19,
+ "rejected": 0,
+ "held": 0,
+ "duplicates_removed": 0,
+ "errors": 1,
+ "retired": 0,
+ "input_words": 716,
+ "failed_inputs": [
+  {
+   "input": "/tmp/bad_in/broken_notes.txt",
+   "error": "/tmp/bad_in/broken_notes.txt: input too short (4 words, need 150+)"
+  }
+ ],
+ "runtime_min": 0.17,
+ "items_in_calendar": 20,
+ "resume_note": ""
+}

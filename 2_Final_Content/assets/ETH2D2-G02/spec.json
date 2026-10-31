@@ -1,0 +1,22 @@
+{
+ "asset_id": "ETH2D2-G02",
+ "format": "Graphic",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Read your caption out loud before you post.",
+ "caption": "Read your caption out loud before you post.\n\nShow the result before the method.\n\nTry this on your next episode and compare.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-G02&utm_term=craft\n\n#videoediting #captions #contentcreator",
+ "cta": "Try this on your next episode and compare.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-G02&utm_term=craft",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "Show the result before the method."
+ ],
+ "card": {
+  "kind": "card",
+  "text": "Read your caption out loud before you post.",
+  "sub": "Show the result before the method."
+ }
+}

@@ -1,0 +1,49 @@
+=== SINGLE INPUT FRESH ===
+2026-10-30 16:49:36,930 INFO CREATED EORC57-V01 (Short video, Instagram)
+2026-10-30 16:49:42,622 INFO CREATED EORC57-V02 (Short video, YouTube Shorts)
+2026-10-30 16:49:46,574 INFO CREATED EORC57-V03 (Short video, LinkedIn)
+2026-10-30 16:49:51,835 INFO CREATED EORC57-V04 (Short video, X)
+2026-10-30 16:49:57,843 INFO CREATED EORC57-V05 (Short video, Instagram)
+2026-10-30 16:50:02,900 INFO CREATED EORC57-V06 (Short video, YouTube Shorts)
+2026-10-30 16:50:06,589 INFO CREATED EORC57-V07 (Short video, LinkedIn)
+2026-10-30 16:50:12,273 INFO CREATED EORC57-V08 (Short video, X)
+2026-10-30 16:50:13,451 INFO CREATED EORC57-C01 (Carousel, LinkedIn)
+2026-10-30 16:50:14,628 INFO CREATED EORC57-C02 (Carousel, Instagram)
+2026-10-30 16:50:15,767 INFO CREATED EORC57-C03 (Carousel, LinkedIn)
+2026-10-30 16:50:16,948 INFO CREATED EORC57-C04 (Carousel, Instagram)
+2026-10-30 16:50:17,124 INFO CREATED EORC57-G01 (Graphic, LinkedIn)
+2026-10-30 16:50:17,296 INFO CREATED EORC57-G02 (Graphic, Instagram)
+2026-10-30 16:50:17,553 INFO CREATED EORC57-G03 (Graphic, X)
+2026-10-30 16:50:17,727 INFO CREATED EORC57-G04 (Graphic, Threads)
+2026-10-30 16:50:17,728 INFO CREATED EORC57-T01 (Text post, LinkedIn)
+2026-10-30 16:50:17,729 INFO CREATED EORC57-T02 (Text post, X)
+2026-10-30 16:50:17,729 INFO CREATED EORC57-T03 (Text post, Threads)
+2026-10-30 16:50:17,730 INFO CREATED EORC57-T04 (Text post, LinkedIn)
+2026-10-30 16:50:17,731 INFO DONE {'inputs': 1, 'planned': 20, 'created': 20, 'updated': 0, 'unchanged': 0, 'rejected': 0, 'held': 0, 'duplicates_removed': 0, 'errors': 0, 'retired': 0, 'input_words': 716, 'runtime_min': 0.78, 'items_in_calendar': 20, 'resume_note': '', 'transformation': [{'mode': 'deterministic_offline'}]}
+single_exit=0
+=== REPEAT ===
+2026-10-30 16:50:17,802 INFO DONE {'inputs': 1, 'planned': 20, 'created': 0, 'updated': 0, 'unchanged': 20, 'rejected': 0, 'held': 0, 'duplicates_removed': 0, 'errors': 0, 'retired': 0, 'input_words': 716, 'runtime_min': 0.0, 'items_in_calendar': 20, 'resume_note': '', 'transformation': [{'mode': 'deterministic_offline'}]}
+repeat_exit=0
+=== NEW INPUT REFRESH ===
+2026-10-30 16:50:23,220 INFO CREATED ETH2D2-V01 (Short video, Instagram)
+2026-10-30 16:50:28,509 INFO CREATED ETH2D2-V02 (Short video, YouTube Shorts)
+2026-10-30 16:50:31,991 INFO CREATED ETH2D2-V03 (Short video, LinkedIn)
+2026-10-30 16:50:37,138 INFO CREATED ETH2D2-V04 (Short video, X)
+2026-10-30 16:50:42,703 INFO CREATED ETH2D2-V05 (Short video, Instagram)
+2026-10-30 16:50:47,478 INFO CREATED ETH2D2-V06 (Short video, YouTube Shorts)
+2026-10-30 16:50:50,808 INFO CREATED ETH2D2-V07 (Short video, LinkedIn)
+2026-10-30 16:50:56,271 INFO CREATED ETH2D2-V08 (Short video, X)
+2026-10-30 16:50:57,468 INFO CREATED ETH2D2-C01 (Carousel, LinkedIn)
+2026-10-30 16:50:58,603 INFO CREATED ETH2D2-C02 (Carousel, Instagram)
+2026-10-30 16:50:59,750 INFO CREATED ETH2D2-C03 (Carousel, LinkedIn)
+2026-10-30 16:51:00,904 INFO CREATED ETH2D2-C04 (Carousel, Instagram)
+2026-10-30 16:51:01,066 INFO CREATED ETH2D2-G01 (Graphic, LinkedIn)
+2026-10-30 16:51:01,232 INFO CREATED ETH2D2-G02 (Graphic, Instagram)
+2026-10-30 16:51:01,485 INFO CREATED ETH2D2-G03 (Graphic, X)
+2026-10-30 16:51:01,661 INFO CREATED ETH2D2-G04 (Graphic, Threads)
+2026-10-30 16:51:01,662 INFO CREATED ETH2D2-T01 (Text post, LinkedIn)
+2026-10-30 16:51:01,663 INFO CREATED ETH2D2-T02 (Text post, X)
+2026-10-30 16:51:01,663 INFO CREATED ETH2D2-T03 (Text post, Threads)
+2026-10-30 16:51:01,664 INFO CREATED ETH2D2-T04 (Text post, LinkedIn)
+2026-10-30 16:51:01,666 INFO DONE {'inputs': 2, 'planned': 40, 'created': 20, 'updated': 0, 'unchanged': 20, 'rejected': 0, 'held': 0, 'duplicates_removed': 0, 'errors': 0, 'retired': 0, 'input_words': 1262, 'runtime_min': 0.73, 'items_in_calendar': 40, 'resume_note': '', 'transformation': [{'mode': 'deterministic_offline'}]}
+refresh_exit=0

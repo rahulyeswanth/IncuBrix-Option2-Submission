@@ -1,0 +1,58 @@
+{
+ "asset_id": "EORC57-C01",
+ "format": "Carousel",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Start by listening for claims, not topics.",
+ "caption": "Start by listening for claims, not topics.\n\nReuse the same idea in a different shape.\n\nRepeating an idea is not lazy when each version teaches it differently.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C01&utm_term=repurposing\n\n#contentrepurposing #podcasting #contentcreator",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C01&utm_term=repurposing",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "Reuse the same idea in a different shape.",
+  "Repeating an idea is not lazy when each version teaches it differently.",
+  "When you only watch one number, you can actually act on it.",
+  "Write down which clips worked and why.",
+  "Every clip you cut is a copy, and the long episode stays your source of truth."
+ ],
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "Start by listening for claims, not topics.",
+   "sub": "One recording, one week of content"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "Reuse the same idea in a different shape."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Repeating an idea is not lazy when each version teaches it differently."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "When you only watch one number, you can actually act on it."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "Write down which clips worked and why."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "Every clip you cut is a copy, and the long episode stays your source of truth."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

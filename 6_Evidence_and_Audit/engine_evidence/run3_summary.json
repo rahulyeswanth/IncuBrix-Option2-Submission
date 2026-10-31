@@ -1,0 +1,17 @@
+{
+ "inputs": 2,
+ "planned": 40,
+ "created": 20,
+ "updated": 0,
+ "unchanged": 20,
+ "rejected": 0,
+ "held": 0,
+ "duplicates_removed": 0,
+ "errors": 0,
+ "retired": 0,
+ "input_words": 1262,
+ "failed_inputs": [],
+ "runtime_min": 1.7,
+ "items_in_calendar": 40,
+ "resume_note": ""
+}

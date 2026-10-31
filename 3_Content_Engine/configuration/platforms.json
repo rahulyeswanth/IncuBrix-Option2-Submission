@@ -1,0 +1,33 @@
+{
+  "_note": "Specs and posting times are starting hypotheses based on common platform guidance; verify against each platform's current help pages before scaling. Times are UTC.",
+  "LinkedIn": {
+    "code": "linkedin", "post_time_utc": "13:30",
+    "video_size": [1080, 1350], "carousel_size": [1080, 1350], "graphic_size": [1080, 1350],
+    "max_video_seconds": 60, "max_caption_chars": 3000, "max_hashtags": 5, "min_hashtags": 1,
+    "max_slides": 10, "min_slides": 5
+  },
+  "Instagram": {
+    "code": "instagram", "post_time_utc": "17:00",
+    "video_size": [1080, 1920], "carousel_size": [1080, 1350], "graphic_size": [1080, 1350],
+    "max_video_seconds": 60, "max_caption_chars": 2200, "max_hashtags": 5, "min_hashtags": 1,
+    "max_slides": 10, "min_slides": 5
+  },
+  "YouTube Shorts": {
+    "code": "youtube_shorts", "post_time_utc": "16:00",
+    "video_size": [1080, 1920], "carousel_size": [1080, 1350], "graphic_size": [1080, 1920],
+    "max_video_seconds": 60, "max_caption_chars": 1000, "max_hashtags": 3, "min_hashtags": 1,
+    "max_slides": 10, "min_slides": 5
+  },
+  "X": {
+    "code": "x", "post_time_utc": "14:00",
+    "video_size": [1080, 1920], "carousel_size": [1080, 1350], "graphic_size": [1600, 900],
+    "max_video_seconds": 60, "max_caption_chars": 280, "max_hashtags": 2, "min_hashtags": 0,
+    "max_slides": 10, "min_slides": 5
+  },
+  "Threads": {
+    "code": "threads", "post_time_utc": "18:00",
+    "video_size": [1080, 1920], "carousel_size": [1080, 1350], "graphic_size": [1080, 1350],
+    "max_video_seconds": 60, "max_caption_chars": 500, "max_hashtags": 1, "min_hashtags": 0,
+    "max_slides": 10, "min_slides": 5
+  }
+}

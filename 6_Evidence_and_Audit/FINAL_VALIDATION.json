@@ -1,0 +1,39 @@
+{
+  "errors": [],
+  "asset_count": 40,
+  "calendar_rows": 40,
+  "official_scheduler_rows": 0,
+  "draft_scheduler_rows": 40,
+  "approved_ready_assets": 0,
+  "pending_human_approval": 40,
+  "formats": {
+    "Carousel": 8,
+    "Graphic": 8,
+    "Text post": 8,
+    "Short video": 16
+  },
+  "platforms": [
+    "Instagram",
+    "LinkedIn",
+    "Threads",
+    "X",
+    "YouTube Shorts"
+  ],
+  "max_video_seconds": 34.067,
+  "unique_ids": 40,
+  "near_duplicate_pairs": [],
+  "technical_qa_passes": 40,
+  "workbook_sheets": [
+    "00_START",
+    "01_INSIGHT",
+    "02_ASSETS",
+    "03_ENGINE_LAUNCH",
+    "04_SELF_CHECK",
+    "05_DISCLOSURE"
+  ],
+  "workbook_formulas": 316,
+  "workbook_data_validations": 15,
+  "workbook_conditional_formatting_blocks": 2,
+  "random_audit_initial": "16/20",
+  "random_audit_after_corrections": "20/20 technical; publication approval pending"
+}

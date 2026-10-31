@@ -1,0 +1,2 @@
+participant_id,consent(Yes/No),eligible(Yes/No),role_in_audience,main_platform,publishing_frequency,pair,shown_first_label(A/B),asset_id_A,asset_id_B,stop_on_feed(A/B/neither),clearer(A/B/same),more_useful(A/B/same),save_share_likelihood_1_to_5,why_optional,would_try_tool(Yes/Maybe/No),credibility_feedback_optional,date_YYYY-MM-DD
+P01,,,,,,1,,,,,,,,,,,

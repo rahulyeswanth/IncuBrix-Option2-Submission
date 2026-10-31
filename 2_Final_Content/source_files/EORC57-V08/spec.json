@@ -1,0 +1,45 @@
+{
+ "asset_id": "EORC57-V08",
+ "format": "Short video",
+ "platform": "X",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "Start on the sentence that makes your guest lean forward.",
+ "caption": "Start on the sentence that makes your guest lean forward.\n\nIf a slide needs a paragraph, it is two slides.\n\nThe last slide should tell people what to do next.\n\nWhich one will you try first?\n\nhttps://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V08&utm_term=hooks\n\n#videohooks #contentstrategy",
+ "cta": "Which one will you try first?",
+ "utm_link": "https://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V08&utm_term=hooks",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "If a slide needs a paragraph, it is two slides.",
+  "The last slide should tell people what to do next.",
+  "Spread one recording across five or six days so each post gets its own moment."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Start on the sentence that makes your guest lean forward."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If a slide needs a paragraph, it is two slides."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "The last slide should tell people what to do next."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Spread one recording across five or six days so each post gets its own moment."
+  },
+  {
+   "kind": "cta",
+   "text": "Which one will you try first?",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

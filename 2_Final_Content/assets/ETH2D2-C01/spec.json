@@ -1,0 +1,58 @@
+{
+ "asset_id": "ETH2D2-C01",
+ "format": "Carousel",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "A number tells people how long the idea will take.",
+ "caption": "A number tells people how long the idea will take.\n\nIf you change the hook and the thumbnail together, you will not know which one worked.\n\nCompare posts of the same format only.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-C01&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-C01&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "If you change the hook and the thumbnail together, you will not know which one worked.",
+  "Compare posts of the same format only.",
+  "Compare a short video with a short video and a carousel with a carousel.",
+  "Review it before every recording session.",
+  "Rewrite a weak hook three times before you give up on the clip."
+ ],
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "A number tells people how long the idea will take.",
+   "sub": "Hooks, captions and the first two seconds"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If you change the hook and the thumbnail together, you will not know which one worked."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Compare posts of the same format only."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Compare a short video with a short video and a carousel with a carousel."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "Review it before every recording session."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "Rewrite a weak hook three times before you give up on the clip."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

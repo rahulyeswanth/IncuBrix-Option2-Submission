@@ -1,0 +1,22 @@
+{
+ "asset_id": "ETH2D2-G03",
+ "format": "Graphic",
+ "platform": "X",
+ "size": [
+  1600,
+  900
+ ],
+ "hook": "Show the result before the method.",
+ "caption": "Show the result before the method.\n\nIf you are teaching an edit, start with the finished clip.\n\nSend this to the person who edits your content.\n\nhttps://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-G03&utm_term=hooks\n\n#videohooks #contentstrategy",
+ "cta": "Send this to the person who edits your content.",
+ "utm_link": "https://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-G03&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "If you are teaching an edit, start with the finished clip."
+ ],
+ "card": {
+  "kind": "card",
+  "text": "Show the result before the method.",
+  "sub": "If you are teaching an edit, start with the finished clip."
+ }
+}

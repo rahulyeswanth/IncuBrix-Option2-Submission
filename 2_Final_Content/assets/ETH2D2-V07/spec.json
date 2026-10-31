@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V07",
+ "format": "Short video",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Put the main words on screen in the first second.",
+ "caption": "Put the main words on screen in the first second.\n\nIf you stumble, your viewer will too.\n\nUse plain words instead of jargon.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V07&utm_term=craft\n\n#videoediting #captions #contentcreator",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V07&utm_term=craft",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "If you stumble, your viewer will too.",
+  "Use plain words instead of jargon.",
+  "Start the written caption with the benefit."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Put the main words on screen in the first second."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If you stumble, your viewer will too."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Use plain words instead of jargon."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Start the written caption with the benefit."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

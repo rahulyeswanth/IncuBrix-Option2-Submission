@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V08",
+ "format": "Short video",
+ "platform": "X",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "The first version is usually a description.",
+ "caption": "The first version is usually a description.\n\nThe first line shows before the \"more\" button, so it must work alone.\n\nAsk a question people can answer in a few words.\n\nTry this on your next episode and compare.\n\nhttps://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V08&utm_term=hooks\n\n#videohooks #contentstrategy",
+ "cta": "Try this on your next episode and compare.",
+ "utm_link": "https://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V08&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "The first line shows before the \"more\" button, so it must work alone.",
+  "Ask a question people can answer in a few words.",
+  "\"Which tip will you try first?\" is easy to answer."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "The first version is usually a description."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "The first line shows before the \"more\" button, so it must work alone."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Ask a question people can answer in a few words."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "\"Which tip will you try first?\" is easy to answer."
+  },
+  {
+   "kind": "cta",
+   "text": "Try this on your next episode and compare.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

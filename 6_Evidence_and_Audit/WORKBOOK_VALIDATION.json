@@ -1,0 +1,44 @@
+{
+  "zip_integrity": null,
+  "submission_checklist": {
+    "F5": "No",
+    "F6": "Yes",
+    "F7": "Yes",
+    "F8": "Yes",
+    "F9": "No",
+    "F10": "No"
+  },
+  "self_check_inputs": {
+    "C6": "0",
+    "C7": "5",
+    "C8": "0",
+    "C9": "0",
+    "C10": "40",
+    "C11": "Yes",
+    "C12": "No"
+  },
+  "self_check_formulas": {
+    "D6": "COUNTIF(02_ASSETS!T5:T154,\"Ready\")",
+    "F6": "IF(C6=\"\",\"\",IF(C6>=30,\"MET\",\"NOT MET\"))",
+    "D8": "COUNTIFS(02_ASSETS!C5:C154,\"Short video\",02_ASSETS!T5:T154,\"Ready\")",
+    "F8": "IF(C8=\"\",\"\",IF(C8>=10,\"MET\",\"NOT MET\"))",
+    "D9": "COUNTIFS(02_ASSETS!C5:C154,\"Carousel\",02_ASSETS!T5:T154,\"Ready\")+COUNTIFS(02_ASSETS!C5:C154,\"Graphic\",02_ASSETS!T5:T154,\"Ready\")",
+    "F9": "IF(C9=\"\",\"\",IF(C9>=5,\"MET\",\"NOT MET\"))",
+    "D10": "COUNTIF(02_ASSETS!M5:M154,\"Pending human approval\")",
+    "F10": "IF(C10=\"\",\"\",IF(C10=0,\"MET\",\"NOT MET\"))",
+    "F11": "IF(C11=\"\",\"\",IF(C11=\"Yes\",\"MET\",\"NOT MET\"))",
+    "F12": "IF(C12=\"\",\"\",IF(C12=\"Yes\",\"MET\",\"NOT MET\"))"
+  },
+  "asset_statuses": {
+    "Pending human approval": 40
+  },
+  "rights_statuses": {
+    "Pending human approval": 40
+  },
+  "completeness_formula_sample": {
+    "W5": "IF(A5=\"\",\"\",IF(T5=\"Rejected\",\"REJECTED\",IF(T5<>\"Ready\",\"PENDING APPROVAL\",IF(AND(B5<>\"\",C5<>\"\",D5<>\"\",E5<>\"\",F5<>\"\",G5<>\"\",H5<>\"\",I5<>\"\",J5<>\"\",M5<>\"\",O5<>\"\",T5<>\"\"),\"COMPLETE\",\"MISSING FIELDS\"))))",
+    "W44": "IF(A44=\"\",\"\",IF(T44=\"Rejected\",\"REJECTED\",IF(T44<>\"Ready\",\"PENDING APPROVAL\",IF(AND(B44<>\"\",C44<>\"\",D44<>\"\",E44<>\"\",F44<>\"\",G44<>\"\",H44<>\"\",I44<>\"\",J44<>\"\",M44<>\"\",O44<>\"\",T44<>\"\"),\"COMPLETE\",\"MISSING FIELDS\"))))"
+  },
+  "expected_minimums_met_after_excel_recalculation": "2 of 7 (platforms and engine only)",
+  "ready_to_submit_after_excel_recalculation": "NOT YET"
+}

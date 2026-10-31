@@ -1,0 +1,40 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.cache/
+output/
+demo/
+failure_demo/
+*.part
+*.part.mp4
+*.tmp
+*.temp
+*.log
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+secrets*.json
+Thumbs.db
+.DS_Store
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.user
+# Python environments and cache
+**/.venv/
+**/venv/
+**/__pycache__/
+.pytest_cache/
+# Build and temporary files
+build/
+dist/
+*.egg-info/

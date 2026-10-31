@@ -1,0 +1,45 @@
+{
+ "asset_id": "EORC57-V03",
+ "format": "Short video",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Nobody needs your name before they know why the clip matters.",
+ "caption": "Nobody needs your name before they know why the clip matters.\n\nIf a clip answers two questions, cut it in half.\n\nViewers should know what they will learn within the first two seconds.\n\nSend this to the person who edits your content.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V03&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Send this to the person who edits your content.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V03&utm_term=hooks",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "If a clip answers two questions, cut it in half.",
+  "Viewers should know what they will learn within the first two seconds.",
+  "Say the surprising sentence first, then explain it."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Nobody needs your name before they know why the clip matters."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If a clip answers two questions, cut it in half."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Viewers should know what they will learn within the first two seconds."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Say the surprising sentence first, then explain it."
+  },
+  {
+   "kind": "cta",
+   "text": "Send this to the person who edits your content.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

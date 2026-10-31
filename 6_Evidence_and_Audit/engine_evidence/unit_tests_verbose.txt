@@ -1,0 +1,28 @@
+test_hooks_are_standalone_and_short (test_engine.ExtractTests.test_hooks_are_standalone_and_short) ... ok
+test_missing_file_rejected (test_engine.ExtractTests.test_missing_file_rejected) ... ok
+test_short_input_rejected (test_engine.ExtractTests.test_short_input_rejected) ... ok
+test_srt_timestamps_removed (test_engine.ExtractTests.test_srt_timestamps_removed) ... ok
+ok
+test_calendar_has_workbook_columns_and_utm (test_engine.PipelineTests.test_calendar_has_workbook_columns_and_utm) ... ok
+ok
+test_deleted_output_file_is_rebuilt (test_engine.PipelineTests.test_deleted_output_file_is_rebuilt) ... ok
+test_failure_is_isolated_and_recovered (test_engine.PipelineTests.test_failure_is_isolated_and_recovered) ... RENDER FAILED EORC57-V03: simulated render failure (will retry on next run)
+ok
+test_no_duplicate_hooks_or_ids (test_engine.PipelineTests.test_no_duplicate_hooks_or_ids) ... ok
+test_one_input_makes_at_least_20_assets (test_engine.PipelineTests.test_one_input_makes_at_least_20_assets) ... ok
+test_refresh_updates_in_place_without_duplicates (test_engine.PipelineTests.test_refresh_updates_in_place_without_duplicates) ... ok
+test_repeat_run_changes_nothing (test_engine.PipelineTests.test_repeat_run_changes_nothing) ... ok
+test_scheduler_export_only_ready (test_engine.PipelineTests.test_scheduler_export_only_ready) ... ok
+test_shrunk_input_does_not_crash_run (test_engine.PipelineTests.test_shrunk_input_does_not_crash_run) ... ok
+test_banned_phrase_rejected (test_engine.QATests.test_banned_phrase_rejected) ... ok
+test_hashtag_limits_respected (test_engine.QATests.test_hashtag_limits_respected) ... ok
+test_hook_too_long_rejected (test_engine.QATests.test_hook_too_long_rejected) ... ok
+test_missing_utm_rejected (test_engine.QATests.test_missing_utm_rejected) ... ok
+test_product_claim_held (test_engine.QATests.test_product_claim_held) ... ok
+test_unverified_feature_is_held_not_published (test_engine.QATests.test_unverified_feature_is_held_not_published) ... ok
+test_x_caption_fits_280_with_link_counted_as_23 (test_engine.QATests.test_x_caption_fits_280_with_link_counted_as_23) ... ok
+test_carousel_slide_bounds (test_engine.RealRenderTests.test_carousel_slide_bounds) ... ok
+test_real_graphic_render (test_engine.RealRenderTests.test_real_graphic_render) ... ok
+test_video_limit (test_engine.RealRenderTests.test_video_limit) ... ok
+test_no_env_files (test_engine.RepoHygiene.test_no_env_files) ... ok
+test_no_secrets_in_repo (test_engine.RepoHygiene.test_no_secrets_in_repo) ... ok

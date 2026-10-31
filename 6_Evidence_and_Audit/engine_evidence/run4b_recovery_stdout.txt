@@ -1,0 +1,3 @@
+2026-10-27 16:49:04,247 ERROR INPUT REJECTED /tmp/bad_in/broken_notes.txt: /tmp/bad_in/broken_notes.txt: input too short (4 words, need 150+)
+2026-10-27 16:49:14,164 INFO CREATED EORC57-V03 (Short video, LinkedIn)
+2026-10-27 16:49:14,174 INFO DONE {'inputs': 2, 'planned': 20, 'created': 1, 'updated': 0, 'unchanged': 19, 'rejected': 0, 'held': 0, 'duplicates_removed': 0, 'errors': 1, 'retired': 0, 'input_words': 716, 'runtime_min': 0.17, 'items_in_calendar': 20, 'resume_note': ''}

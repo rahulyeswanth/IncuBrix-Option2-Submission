@@ -1,0 +1,58 @@
+{
+ "asset_id": "ETH2D2-C02",
+ "format": "Carousel",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Lead with the problem your viewer already has.",
+ "caption": "Lead with the problem your viewer already has.\n\nThe first version is usually a description.\n\nThe third version is usually a promise.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-C02&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-C02&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "The first version is usually a description.",
+  "The third version is usually a promise.",
+  "End the clip when the point is made.",
+  "A clean ending makes people more likely to watch the next one.",
+  "A hook is a promise made in two seconds."
+ ],
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "Lead with the problem your viewer already has.",
+   "sub": "Hooks, captions and the first two seconds"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "The first version is usually a description."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "The third version is usually a promise."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "End the clip when the point is made."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "A clean ending makes people more likely to watch the next one."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "A hook is a promise made in two seconds."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

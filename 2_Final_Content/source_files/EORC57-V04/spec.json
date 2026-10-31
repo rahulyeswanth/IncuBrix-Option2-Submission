@@ -1,0 +1,45 @@
+{
+ "asset_id": "EORC57-V04",
+ "format": "Short video",
+ "platform": "X",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "Write the first line of the caption last.",
+ "caption": "Write the first line of the caption last.\n\nNever start a clip with a greeting.\n\nStart on the sentence that makes your guest lean forward.\n\nTry this on your next episode and compare.\n\nhttps://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V04&utm_term=craft\n\n#videoediting #captions",
+ "cta": "Try this on your next episode and compare.",
+ "utm_link": "https://incubrix.com/?utm_source=x&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V04&utm_term=craft",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "Never start a clip with a greeting.",
+  "Start on the sentence that makes your guest lean forward.",
+  "Keep every short video under sixty seconds, and aim for thirty."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Write the first line of the caption last."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "Never start a clip with a greeting."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Start on the sentence that makes your guest lean forward."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Keep every short video under sixty seconds, and aim for thirty."
+  },
+  {
+   "kind": "cta",
+   "text": "Try this on your next episode and compare.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

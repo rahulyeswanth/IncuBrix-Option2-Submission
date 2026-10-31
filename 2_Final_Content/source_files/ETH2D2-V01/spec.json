@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V01",
+ "format": "Short video",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "Most recordings start with a pause, a cough or a half sentence.",
+ "caption": "Most recordings start with a pause, a cough or a half sentence.\n\nA hook is a promise made in two seconds.\n\nIf the promise is vague, the viewer leaves.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V01&utm_term=craft\n\n#videoediting #captions #contentcreator",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V01&utm_term=craft",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "A hook is a promise made in two seconds.",
+  "If the promise is vague, the viewer leaves.",
+  "If the promise is specific, the viewer stays to see it kept."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Most recordings start with a pause, a cough or a half sentence."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "A hook is a promise made in two seconds."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "If the promise is vague, the viewer leaves."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "If the promise is specific, the viewer stays to see it kept."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

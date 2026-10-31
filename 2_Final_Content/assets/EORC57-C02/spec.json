@@ -1,0 +1,58 @@
+{
+ "asset_id": "EORC57-C02",
+ "format": "Carousel",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Never start a clip with a greeting.",
+ "caption": "Never start a clip with a greeting.\n\nIf you ever need to fix a mistake, you can go back and cut it again.\n\nAsk permission before you publish anyone else's voice or face.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C02&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C02&utm_term=hooks",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "If you ever need to fix a mistake, you can go back and cut it again.",
+  "Ask permission before you publish anyone else's voice or face.",
+  "A guest agreed to the full conversation, not necessarily to every clip.",
+  "Finish every video with one clear next step.",
+  "Tell people to save it, send it to a friend or watch the full episode."
+ ],
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "Never start a clip with a greeting.",
+   "sub": "One recording, one week of content"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If you ever need to fix a mistake, you can go back and cut it again."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Ask permission before you publish anyone else's voice or face."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "A guest agreed to the full conversation, not necessarily to every clip."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "Finish every video with one clear next step."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "Tell people to save it, send it to a friend or watch the full episode."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

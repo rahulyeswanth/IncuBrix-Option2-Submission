@@ -1,0 +1,14 @@
+Concurrent diagnostic only — two real-media pipelines were started simultaneously and cancelled after FFmpeg pipe closures. Not counted as a test pass.
+--- normal stream ---
+=== SINGLE INPUT FRESH ===
+2026-10-30 16:48:54,102 ERROR RENDER FAILED EORC57-V01: ffmpeg pipe closed:  (will retry on next run)
+2026-10-30 16:49:03,794 ERROR RENDER FAILED EORC57-V02: ffmpeg pipe closed:  (will retry on next run)
+2026-10-30 16:49:08,874 INFO CREATED EORC57-V03 (Short video, LinkedIn)
+2026-10-30 16:49:12,024 ERROR RENDER FAILED EORC57-V04: ffmpeg pipe closed:  (will retry on next run)
+--- failure stream ---
+=== SIMULATED FAILURE ===
+2026-10-30 16:48:56,864 INFO CREATED EORC57-V01 (Short video, Instagram)
+2026-10-30 16:49:07,334 INFO CREATED EORC57-V02 (Short video, YouTube Shorts)
+2026-10-30 16:49:07,339 ERROR RENDER FAILED EORC57-V03: simulated render failure (will retry on next run)
+2026-10-30 16:49:13,681 INFO CREATED EORC57-V04 (Short video, X)
+2026-10-30 16:49:24,083 ERROR RENDER FAILED EORC57-V05: ffmpeg pipe closed:  (will retry on next run)

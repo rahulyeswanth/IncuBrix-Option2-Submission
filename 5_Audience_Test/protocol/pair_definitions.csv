@@ -1,0 +1,6 @@
+pair,hypothesis,asset_id_A,asset_id_B,variable_held_or_changed,primary_metric
+1,A direct editing instruction beats a general caption observation,ETH2D2-V06,EORC57-V05,hook framing; video format held,stop-on-feed preference
+2,A saveable carousel beats a text-motion video for a multi-step workflow,EORC57-C01,EORC57-V02,format changed; repurposing topic held,stop-on-feed preference
+3,A concise benefit-led graphic beats a longer teaching text post,ETH2D2-G01,ETH2D2-T04,length/format changed; caption craft held,clarity preference
+4,A problem-led hook beats a process-led hook,ETH2D2-V04,ETH2D2-V07,hook style changed; video and source held,stop-on-feed preference
+5,A save CTA beats a try-and-compare CTA,ETH2D2-V05,EORC57-V05,CTA changed; vertical video and caption craft held,save/share intent

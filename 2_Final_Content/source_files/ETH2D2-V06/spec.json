@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V06",
+ "format": "Short video",
+ "platform": "YouTube Shorts",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "Write the hook before you edit the video.",
+ "caption": "Write the hook before you edit the video.\n\nIf a sentence does not fit, split it.\n\nButtons and descriptions cover the bottom of vertical video.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=youtube_shorts&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V06&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=youtube_shorts&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V06&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "If a sentence does not fit, split it.",
+  "Buttons and descriptions cover the bottom of vertical video.",
+  "Read your caption out loud before you post."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Write the hook before you edit the video."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If a sentence does not fit, split it."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Buttons and descriptions cover the bottom of vertical video."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Read your caption out loud before you post."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

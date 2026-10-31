@@ -1,0 +1,58 @@
+{
+ "asset_id": "ETH2D2-C03",
+ "format": "Carousel",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Use plain words instead of jargon.",
+ "caption": "Use plain words instead of jargon.\n\nIf the promise is vague, the viewer leaves.\n\nIf the promise is specific, the viewer stays to see it kept.\n\nTry this on your next episode and compare.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-C03&utm_term=craft\n\n#videoediting #captions #contentcreator",
+ "cta": "Try this on your next episode and compare.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-C03&utm_term=craft",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "If the promise is vague, the viewer leaves.",
+  "If the promise is specific, the viewer stays to see it kept.",
+  "Write the hook before you edit the video.",
+  "If you cannot say the promise in one sentence, the clip is not ready.",
+  "A clip without a promise is just footage."
+ ],
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "Use plain words instead of jargon.",
+   "sub": "Hooks, captions and the first two seconds"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "If the promise is vague, the viewer leaves."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "If the promise is specific, the viewer stays to see it kept."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Write the hook before you edit the video."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "If you cannot say the promise in one sentence, the clip is not ready."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "A clip without a promise is just footage."
+  },
+  {
+   "kind": "cta",
+   "text": "Try this on your next episode and compare.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "_note": "Product claims register. 'verified' must stay false until YOU have seen the feature working in the IncuBrix app and recorded evidence. Source = where the claim wording came from (public website fetched 2026-10-26). Assets that depend on an unverified claim are held as Draft by the engine.",
+  "claims": [
+    {"id": "C01", "feature": "Content Insights",
+     "claim": "Scans what is trending in your niche, spots gaps competitors missed, and returns a shortlist of topics to record.",
+     "source": "https://incubrix.com/ (Content Insights section)", "verified": false, "evidence": ""},
+    {"id": "C02", "feature": "Transcript-based editing",
+     "claim": "Deleting a sentence in the transcript removes it from the video.",
+     "source": "https://incubrix.com/ (Content Creation section)", "verified": false, "evidence": ""},
+    {"id": "C03", "feature": "Word-by-word captions",
+     "claim": "Word-by-word karaoke captions in your fonts and colors.",
+     "source": "https://incubrix.com/ (Everything in the box)", "verified": false, "evidence": ""},
+    {"id": "C04", "feature": "Voice clone narration",
+     "claim": "Clone your voice, then type narration to fix a flubbed line without re-recording.",
+     "source": "https://incubrix.com/ (Everything in the box)", "verified": false, "evidence": ""},
+    {"id": "C05", "feature": "Team Workspace",
+     "claim": "Invite editors, writers and managers; comment on cuts, assign posts, approve before anything ships.",
+     "source": "https://incubrix.com/ (Team Workspace section)", "verified": false, "evidence": ""},
+    {"id": "C06", "feature": "Multi-platform publishing",
+     "claim": "Schedule and post to YouTube, Instagram, LinkedIn, Spotify and Bluesky from one screen, each version sized and captioned.",
+     "source": "https://incubrix.com/ (Content Publishing section)", "verified": false, "evidence": ""},
+    {"id": "C07", "feature": "Long video to clips",
+     "claim": "Upload a long video and AI finds the strongest moments and cuts them into ready-to-post clips.",
+     "source": "https://incubrix.com/ (Everything in the box)", "verified": false, "evidence": ""},
+    {"id": "C08", "feature": "Free to start",
+     "claim": "Free to start, no card required.",
+     "source": "https://incubrix.com/ (hero and footer)", "verified": false, "evidence": ""}
+  ]
+}

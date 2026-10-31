@@ -1,0 +1,59 @@
+{
+ "asset_id": "EORC57-C04",
+ "format": "Carousel",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "A guest agreed to the full conversation, not necessarily to every clip.",
+ "caption": "A guest agreed to the full conversation, not necessarily to every clip.\n\nAsk permission before you publish anyone else's voice or face.\n\nA quick message protects the relationship and costs nothing.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C04&utm_term=trust\n\n#creatoreconomy #contentcreator #podcasting",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-C04&utm_term=trust",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "Ask permission before you publish anyone else's voice or face.",
+  "A quick message protects the relationship and costs nothing.",
+  "Label anything made with AI where the platform asks you to.",
+  "Honesty about your process builds more trust than hiding it.",
+  "Audiences forgive tools."
+ ],
+ "manual_override_reason": "Keep the carousel focused on consent and transparent media use.",
+ "slides": [
+  {
+   "kind": "cover",
+   "text": "A guest agreed to the full conversation, not necessarily to every clip.",
+   "sub": "One recording, one week of content"
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "Ask permission before you publish anyone else's voice or face."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "A quick message protects the relationship and costs nothing."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Label anything made with AI where the platform asks you to."
+  },
+  {
+   "kind": "point",
+   "n": 4,
+   "text": "Honesty about your process builds more trust than hiding it."
+  },
+  {
+   "kind": "point",
+   "n": 5,
+   "text": "Audiences forgive tools."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Save this and share it with your editor."
+  }
+ ]
+}

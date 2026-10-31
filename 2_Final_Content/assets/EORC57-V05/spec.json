@@ -1,0 +1,45 @@
+{
+ "asset_id": "EORC57-V05",
+ "format": "Short video",
+ "platform": "Instagram",
+ "size": [
+  1080,
+  1920
+ ],
+ "hook": "Viewers should know what they will learn within the first two seconds.",
+ "caption": "Viewers should know what they will learn within the first two seconds.\n\nAdd captions to every video, because most people watch with the sound off.\n\nCheck each caption against the audio before you publish, because a wrong word destroys trust quickly.\n\nTry this on your next episode and compare.\n\nhttps://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V05&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Try this on your next episode and compare.",
+ "utm_link": "https://incubrix.com/?utm_source=instagram&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-V05&utm_term=hooks",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "Add captions to every video, because most people watch with the sound off.",
+  "Check each caption against the audio before you publish, because a wrong word destroys trust quickly.",
+  "Write the first line of the caption last."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Viewers should know what they will learn within the first two seconds."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "Add captions to every video, because most people watch with the sound off."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Check each caption against the audio before you publish, because a wrong word destroys trust quickly."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "Write the first line of the caption last."
+  },
+  {
+   "kind": "cta",
+   "text": "Try this on your next episode and compare.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

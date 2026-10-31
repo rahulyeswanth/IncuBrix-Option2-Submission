@@ -1,0 +1,45 @@
+{
+ "asset_id": "ETH2D2-V03",
+ "format": "Short video",
+ "platform": "LinkedIn",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Never promise something the clip does not deliver.",
+ "caption": "Never promise something the clip does not deliver.\n\nA hook that overpromises gets a click and then a drop.\n\nLead with the problem your viewer already has.\n\nSave this for your next recording.\n\nhttps://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V03&utm_term=hooks\n\n#videohooks #contentstrategy #shortformvideo",
+ "cta": "Save this for your next recording.",
+ "utm_link": "https://incubrix.com/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=ETH2D2-V03&utm_term=hooks",
+ "source_input": "episode_two_hooks_and_captions.md",
+ "points": [
+  "A hook that overpromises gets a click and then a drop.",
+  "Lead with the problem your viewer already has.",
+  "People pay attention to their own frustrations first."
+ ],
+ "scenes": [
+  {
+   "kind": "hook",
+   "text": "Never promise something the clip does not deliver."
+  },
+  {
+   "kind": "point",
+   "n": 1,
+   "text": "A hook that overpromises gets a click and then a drop."
+  },
+  {
+   "kind": "point",
+   "n": 2,
+   "text": "Lead with the problem your viewer already has."
+  },
+  {
+   "kind": "point",
+   "n": 3,
+   "text": "People pay attention to their own frustrations first."
+  },
+  {
+   "kind": "cta",
+   "text": "Save this for your next recording.",
+   "sub": "Follow for more creator workflows."
+  }
+ ]
+}

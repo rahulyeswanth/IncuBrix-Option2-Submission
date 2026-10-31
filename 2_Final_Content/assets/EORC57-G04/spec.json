@@ -1,0 +1,22 @@
+{
+ "asset_id": "EORC57-G04",
+ "format": "Graphic",
+ "platform": "Threads",
+ "size": [
+  1080,
+  1350
+ ],
+ "hook": "Scan the recording in five minute windows.",
+ "caption": "Scan the recording in five minute windows.\n\nKeep every short video under sixty seconds, and aim for thirty.\n\nWhich one will you try first?\n\nhttps://incubrix.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-G04&utm_term=repurposing\n\n#contentrepurposing",
+ "cta": "Which one will you try first?",
+ "utm_link": "https://incubrix.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=creator_engine_q4_2026&utm_content=EORC57-G04&utm_term=repurposing",
+ "source_input": "episode_one_recording_a_week_of_content.md",
+ "points": [
+  "Keep every short video under sixty seconds, and aim for thirty."
+ ],
+ "card": {
+  "kind": "card",
+  "text": "Scan the recording in five minute windows.",
+  "sub": "Keep every short video under sixty seconds, and aim for thirty."
+ }
+}
